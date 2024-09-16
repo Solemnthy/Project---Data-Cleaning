@@ -109,7 +109,6 @@ Select  OwnerSplitAddress,OwnerSplitCity,OwnerSplitState
 FROM nashvillehousing;
 
 
-
 -- Change Y and N to Yes and No in "Sold as Vacant" field
 
 
